@@ -1,0 +1,15 @@
+{
+    "name": "@nora-soderlund/canvas-utils",
+    "version": "1.0.0",
+    "description": "Utils extensions for the Node.js canvas package.",
+    "main": "dist/exports.js",
+    "type": "commonjs",
+    "scripts": {
+        "build": "tsc"
+    },
+    "author": "Nora Söderlund",
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^4.9.4"
+    }
+}
