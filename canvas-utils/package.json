@@ -11,5 +11,16 @@
     "license": "ISC",
     "devDependencies": {
         "typescript": "^4.9.4"
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nora-soderlund/npm.git"
+    },
+    "keywords": [
+        "canvas"
+    ],
+    "bugs": {
+        "url": "https://github.com/nora-soderlund/npm/issues"
+    },
+    "homepage": "https://github.com/nora-soderlund/npm/canvas-utils#readme"
 }
